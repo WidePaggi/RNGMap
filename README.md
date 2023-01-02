@@ -1,1 +1,11 @@
 # RNGMap
+- **Full Overworld Practice**
+- Timers
+- God Chests
+- 4 Seconds in Portal for 4th Bed
+- 2 Reset Methods - Chat & Throw Diamond in Inventory
+- WidePaggi !
+- **Full Nether Practuce&&
+- Timers
+- 2 Reset Methods - Chat & Throw Nether Brick in Inventory
+- WidePaggi !
